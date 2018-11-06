@@ -3,8 +3,8 @@ Advanced React and GraphQL
 
 ## Tech
 
-- [Reactjs](https://reactjs.org/) - JavaScript library for building user interfaces
-- [Nextjs](https://redux.js.org/) - Predictable state container for JavaScript apps
+- [Reactjs](https://reactjs.org/) - JavaScript library for building user interfaces.
+- [Nextjs](https://redux.js.org/) - React framework.
 - [Styled Components](https://www.styled-components.com/) - Visual primitives for the component age 💅
 - [Apollo Client](https://www.apollographql.com/) - Build a universal GraphQL API on top of your existing REST APIs.
 - [GraphQL Yoga](https://github.com/prisma/graphql-yoga) - Fully-featured GraphQL Server with focus on easy setup, performance & great developer experience.
