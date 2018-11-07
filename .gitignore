@@ -1,3 +1,4 @@
-/.env
+/variables.env
 .DS_Store
 /node_modules
+/src/generated/prisma.graphql
