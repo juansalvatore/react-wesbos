@@ -1,3 +1,3 @@
-const Home = props => <p>Sell</p>
+const Sell = props => <p>Sell</p>
 
-export default Home
+export default Sell
